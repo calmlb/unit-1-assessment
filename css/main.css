@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+  }
+
+  #counterWindow {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+
+  #span {
+      justify-content: center
+      min-width: 30px;
+      min-height 30px;
+  }
